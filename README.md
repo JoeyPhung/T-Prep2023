@@ -1,1 +1,2 @@
 # T-Prep2023
+This is the code for running the ModuLock. It uses remotxy for mobile app integration and makes use of the built-in wifi card on the ESP32 Featherboard to connect the product to a phone. The code makes use of an accelerometer and a photoresistor as sensors and a piezo buzzer and several neopixels for the alarm system. It includes a switch to arm/disarm the lock, a panic button, a disarm button, and a text box to log the most recent action.
